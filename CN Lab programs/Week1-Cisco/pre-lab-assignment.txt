@@ -1,0 +1,17 @@
+Difference b/w simulator and emulator-
+Simulator:
+	easy & early s/w application creation
+	low cost alternative to h/w
+	deep insight into application behavior
+	eg:
+		armsim
+		xilinx
+		flight simulator
+Emulator:
+	accurate real-time h/w-s/w system interactions
+	precise behavior of system peripherals
+	real-time non-intrusive visibility and control
+	eg: 
+		android device emulator
+		MAME- arcade emulator
+		DOSBox- DOS emulator
